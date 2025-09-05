@@ -5,6 +5,6 @@
 
 - Reels
 * tiktoks
-+ Shorts\
++ Shorts
 
 **This text is bold**\ *This text is italics*\
