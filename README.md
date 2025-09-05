@@ -7,4 +7,4 @@
 * tiktoks
 + Shorts
 
-**This text is bold**\ *This text is italics*\
+**One Bold Statement** + *One Italic Statement*
